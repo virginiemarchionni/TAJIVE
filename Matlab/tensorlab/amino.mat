@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="/node/58" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/go-engine" />
+  <title>Downloading | Quality &amp; Technology</title>
+  <style type="text/css" media="all">
+@import url("http://www.models.life.ku.dk/modules/system/system.base.css?pd8rtc");
+@import url("http://www.models.life.ku.dk/modules/system/system.menus.css?pd8rtc");
+@import url("http://www.models.life.ku.dk/modules/system/system.messages.css?pd8rtc");
+@import url("http://www.models.life.ku.dk/modules/system/system.theme.css?pd8rtc");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.models.life.ku.dk/modules/field/theme/field.css?pd8rtc");
+@import url("http://www.models.life.ku.dk/modules/node/node.css?pd8rtc");
+@import url("http://www.models.life.ku.dk/modules/search/search.css?pd8rtc");
+@import url("http://www.models.life.ku.dk/modules/user/user.css?pd8rtc");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.models.life.ku.dk/themes/garland/style.css?pd8rtc");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.models.life.ku.dk/themes/garland/print.css?pd8rtc");
+</style>
+
+<!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.models.life.ku.dk/themes/garland/fix-ie.css?pd8rtc" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://www.models.life.ku.dk/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.models.life.ku.dk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.models.life.ku.dk/misc/drupal.js?pd8rtc"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"garland","theme_token":"9r3YODAhRFIHy-eYsDUJ_6a4v-dEqoGXtSDbOTfldpw","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"themes\/garland\/style.css":1,"themes\/garland\/print.css":1,"themes\/garland\/fix-ie.css":1}},"urlIsAjaxTrusted":{"\/go-engine?destination=node\/58%3Ffilename%3Damino.mat":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-58 node-type-page fluid-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+        <div class="region region-header clearfix">
+    <div id="block-user-login" class="block block-user clearfix">
+
+    <h2 class="title">User login</h2>
+  
+  <div class="content">
+    <form action="/go-engine?destination=node/58%3Ffilename%3Damino.mat" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-o3DIBLvAyxyBOhkqGjBweelEY31zxVEjKhxlOqtBj90" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+
+  <div id="wrapper">
+    <div id="container" class="clearfix">
+
+      <div id="header">
+        <div id="logo-floater">
+                              <div id="branding"><strong><a href="/">
+                        <span>Quality &amp; Technology</span>            </a></strong></div>
+                          </div>
+
+        <h2 class="element-invisible">Main menu</h2><ul class="links inline main-menu"><li class="menu-653 first"><a href="/about" title="">About</a></li>
+<li class="menu-497"><a href="/research" title="Research">Research</a></li>
+<li class="menu-500"><a href="/projects" title="Projects">Projects</a></li>
+<li class="menu-208"><a href="/databases" title="Databases">Databases</a></li>
+<li class="menu-284"><a href="/datasets" title="Public data sets for multivariate data analysis">Datasets</a></li>
+<li class="menu-288"><a href="/algorithms" title="Algorithms and source code">Algorithms</a></li>
+<li class="menu-503"><a href="/conferences" title="Conferences">Conferences</a></li>
+<li class="menu-287"><a href="/teaching" title="Teaching">Teaching</a></li>
+<li class="menu-481"><a href="/odin" title="odin">ODIN</a></li>
+<li class="menu-651"><a href="/HYPERTools" title="">HYPERTools</a></li>
+<li class="menu-654"><a href="/BIOPRO" title="">BIOPRO</a></li>
+<li class="menu-656 last"><a href="/reward" title="">REWARD</a></li>
+</ul>              </div> <!-- /#header -->
+
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+          <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div>                    <a id="main-content"></a>
+          <div id="tabs-wrapper" class="clearfix">                                <h1 class="with-tabs">Downloading</h1>
+                              </div>                                                  <div class="clearfix">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <div id="node-58" class="node node-page">
+
+  
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><?
+  $filename = $_GET['filename'];
+  $email    = $_GET['email'];
+  $realname = $_GET["realname"];
+  $country  = $_GET["country"];
+  $purpose  = $_GET["purpose"];
+  $ip       = $_SERVER['REMOTE_ADDR'];
+  $date     = date("Y W m d H:i");
+?>
+
+in progress...
+
+<?
+
+  try{
+  $db = new sqlite3("db/log_downloads.db") or die("Could not open database");
+  $db->query("insert into log 
+     (material, realname, email, remotehost, purpose, country, date) values
+     ('$filename','$realname','$email','$ip','$purpose','$country','$date');" );
+  }
+  catch(PDOexception $error){
+    echo 'Exception : '.$error->getMessage();
+  }
+?>
+
+<? echo $filename; ?>
+
+<?
+  $file = "http://localhost/drupal6/sites/default/files/".$filename;
+  header('Content-Description: File Transfer');
+  header('Content-Type: application/octet-stream');
+  header('Content-Disposition: attachment; filename='.basename($file));
+  header('Content-Transfer-Encoding: binary');
+  header('Expires: 0');
+  header('Cache-Control: must-revalidate, post-check=0, pre-check=0');
+  header('Pragma: public');
+  ob_clean();
+  flush();
+  readfile($file);
+  exit;
+?></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"></div>
+    
+      </div>
+
+</div>
+  </div>
+</div>
+  </div>
+          </div>
+                          </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /#container -->
+  </div> <!-- /#wrapper -->
+  </body>
+</html>
+Could not access file: http://www.models.life.ku.dk/site_user_list

@@ -1,0 +1,19 @@
+MATLAB codes to demonstrate the SCORE algorithm for simple rank estimation task and denoising task.
+
+  - DEMO.m : simple multi-linear tensor rank estimation
+  - DEMO_denoising.m : gray-scale image denoising via patch-matching and low-rank higher order singular value decomposition (HOSVD) with SCORE estimator.
+
+You can try each demonstration by typing just 'DEMO' or 'DEMO_denoising' on your command line.
+
+------------------------------------------------------------------------------------------------
+If you can not use mexfile named 'calc_dist_make_patches.c' in Functions_for_HOSVD_denoising, please try to change two lines in 'SCORE_denoiser.m' as follows:
+
+from
+    [Z index distance] = find_similar_patches_mex(PP,P,K); %% set of similar patches (3d-tensor);
+    %[Z index distance] = find_similar_patches(PP,P,K); %% if you cannot compile mexfile please use this
+
+to
+    %[Z index distance] = find_similar_patches_mex(PP,P,K); %% set of similar patches (3d-tensor);
+    [Z index distance] = find_similar_patches(PP,P,K); %% if you cannot compile mexfile please use this
+
+
