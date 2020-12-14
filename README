@@ -1,0 +1,24 @@
+make list# GPUspb
+
+TAJIVE decomposition for multidimensional dataset.
+
+First it is necessary to install Armadillo. See README.md in dependecies/armadillo
+
+Files organization:
+- include folder: header files for the C++ program
+- src folder: source files for the C++ program
+- dependencies: contains all the library used
+
+The program is compiled and run from the main folder TAJIVEc++
+
+Before executing the code, modify the path to "dependencies" in Cmake file
+and also in TAJIVEmain.cpp the path to load the two CSV.files
+
+Intended usage of the program
+1) cmake .
+2) ./TAJIVEdecomp
+
+
+
+
+

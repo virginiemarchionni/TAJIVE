@@ -1,0 +1,7 @@
+/home/virginie/Desktop/VITALE/Tesi/Codice/TAJIVEc++/dependecies/armadillo/CMakeFiles/install/strip.dir
+/home/virginie/Desktop/VITALE/Tesi/Codice/TAJIVEc++/dependecies/armadillo/CMakeFiles/edit_cache.dir
+/home/virginie/Desktop/VITALE/Tesi/Codice/TAJIVEc++/dependecies/armadillo/CMakeFiles/armadillo.dir
+/home/virginie/Desktop/VITALE/Tesi/Codice/TAJIVEc++/dependecies/armadillo/CMakeFiles/list_install_components.dir
+/home/virginie/Desktop/VITALE/Tesi/Codice/TAJIVEc++/dependecies/armadillo/CMakeFiles/install/local.dir
+/home/virginie/Desktop/VITALE/Tesi/Codice/TAJIVEc++/dependecies/armadillo/CMakeFiles/rebuild_cache.dir
+/home/virginie/Desktop/VITALE/Tesi/Codice/TAJIVEc++/dependecies/armadillo/CMakeFiles/install.dir

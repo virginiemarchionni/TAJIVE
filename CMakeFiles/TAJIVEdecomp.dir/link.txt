@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TAJIVEdecomp.dir/TAJIVEmain.cpp.o CMakeFiles/TAJIVEdecomp.dir/src/TensorDyn.cpp.o CMakeFiles/TAJIVEdecomp.dir/src/TAJIVE.cpp.o  -o TAJIVEdecomp  /usr/lib/x86_64-linux-gnu/libarmadillo.so 

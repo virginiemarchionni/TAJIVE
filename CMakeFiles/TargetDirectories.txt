@@ -1,0 +1,3 @@
+/home/virginie/Desktop/VITALE/Tesi/Codice/TAJIVEc++/CMakeFiles/rebuild_cache.dir
+/home/virginie/Desktop/VITALE/Tesi/Codice/TAJIVEc++/CMakeFiles/edit_cache.dir
+/home/virginie/Desktop/VITALE/Tesi/Codice/TAJIVEc++/CMakeFiles/TAJIVEdecomp.dir
